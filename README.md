@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me (animated)
+## 🚀 About Me
 
 <p align="center">
   <!-- each line is a separate typing animation so it appears line-by-line -->
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌐 Connect With Me (animated)
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/arjun-subramaniam18/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
