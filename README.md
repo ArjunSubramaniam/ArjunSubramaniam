@@ -49,6 +49,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6ZsWl4oQqjXxj4f2/giphy.gif" width="140" alt="footer gif" />
-</p>
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=✨+Thanks+for+Stalking+✨;Now+go+star+some+repos!;Come+back+soon!+%F0%9F%92%96" alt="Thanks for Stalking Animation" />
+
+</div>
+
